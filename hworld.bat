@@ -1,2 +1,2 @@
 echo Hello World
-timeout /t 100
+timeout /t 900
