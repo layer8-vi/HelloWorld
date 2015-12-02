@@ -1,2 +1,2 @@
-echo Hello World
+echo Hello World from tech.vi
 timeout /t 900
